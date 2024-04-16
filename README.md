@@ -7,4 +7,4 @@ These are cool too 🐡
 <img width="21" alt="Screen Shot 2024-04-16 at 2 21 50 PM" src="https://github.com/Penguins478/TetrioQuickPlayScraper/assets/19849726/53dc8210-9300-4836-9838-0a963fd78cf0">
 <img width="19" alt="Screen Shot 2024-04-16 at 2 21 41 PM" src="https://github.com/Penguins478/TetrioQuickPlayScraper/assets/19849726/1d8ff91f-a485-4163-b13d-3a48115b853a">
 
-Just run main.py (edit the constants if you want) and receive email notifications on the state of the TETRIO QuickPlay room to quickly get the badges above.
+Just run scraper/main.py (edit the constants if you want) and receive email notifications on the state of the TETRIO QuickPlay room to quickly get the badges above.
